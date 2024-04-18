@@ -1,7 +1,7 @@
 package cs252;
 
 import java.util.Arrays;
-
+//cats
 /**
  * Class to compute median averages.
  * 
